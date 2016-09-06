@@ -1,0 +1,7 @@
+#Tue Sep 06 16:30:12 PDT 2016
+base.0=C\:\\Users\\user\\AndroidStudioProjects\\TwoActivityApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1295eceb8595fbd86a2c3cd4f3809490449df374
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\user\\AndroidStudioProjects\\TwoActivityApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4583e5d2927b8f47e89150605e4f065a0e69d644\\classes.dex
+base.1=C\:\\Users\\user\\AndroidStudioProjects\\TwoActivityApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4583e5d2927b8f47e89150605e4f065a0e69d644
+file.0=C\:\\Users\\user\\AndroidStudioProjects\\TwoActivityApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1295eceb8595fbd86a2c3cd4f3809490449df374\\classes.dex
